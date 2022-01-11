@@ -1,0 +1,2 @@
+dataset: - https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv 
+code :- https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
